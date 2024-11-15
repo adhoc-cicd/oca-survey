@@ -23,6 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [survey_question_type_binary](survey_question_type_binary/) | 16.0.1.0.0 |  | This module add binary field as question type for survey page
 [survey_question_type_five_star](survey_question_type_five_star/) | 16.0.1.0.0 |  | This module adds five stars rating as question type for survey page
+[survey_question_type_nps](survey_question_type_nps/) | 16.0.1.0.0 |  | This module add nps rating as question type for survey page
 [survey_xlsx](survey_xlsx/) | 16.0.1.0.0 |  | XLSX Report to show the survey results
 
 [//]: # (end addons)
